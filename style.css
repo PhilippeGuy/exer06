@@ -15,6 +15,10 @@
   display: none;
 }
 
+.site-title a {
+  font-size: 38pt;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
 }
